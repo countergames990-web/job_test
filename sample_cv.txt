@@ -1,0 +1,37 @@
+# Sample CV for Testing
+# Save this as my_cv.txt and upload it to the UI
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 3+ years of expertise in building scalable microservices and distributed systems. Strong proficiency in Python, Go, and cloud technologies.
+
+TECHNICAL SKILLS
+- Languages: Python, Go (Golang), JavaScript, SQL
+- Frameworks: Django, Flask, FastAPI, Node.js, Express
+- Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, CI/CD
+- Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+- Tools: Git, Linux, REST APIs, GraphQL, Microservices Architecture
+
+EXPERIENCE
+
+Senior Backend Engineer | TechCorp India | 2022 - Present
+- Designed and implemented microservices architecture handling 1M+ requests/day
+- Built RESTful APIs using Python/Django and Go for high-performance services
+- Deployed applications on AWS using Docker and Kubernetes
+- Improved system performance by 40% through optimization and caching strategies
+- Collaborated with frontend teams using React and Vue.js
+
+Backend Developer | StartupXYZ | 2020 - 2022
+- Developed scalable backend services using Python Flask and PostgreSQL
+- Implemented CI/CD pipelines with Jenkins and automated testing
+- Worked with MongoDB and Redis for caching and data storage
+- Built real-time features using WebSockets and message queues
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Indian Institute of Technology (IIT) | 2020
+
+PREFERENCES
+- Job Type: Full-time, Remote or Hybrid
+- Location: Bangalore, Mumbai, Remote (India)
+- Industries: Tech startups, SaaS, Fintech, E-commerce
+- Looking for: Backend Engineer, Software Engineer, Full Stack Developer roles
